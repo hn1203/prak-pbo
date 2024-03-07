@@ -36,8 +36,8 @@ mahasiswa1 = Mahasiswa(nim,nama,angkatan)
 
 print(f"Nama mahasiswa1: {mahasiswa1.get_nama()}, NIM mahasiswa1: {mahasiswa1.get_nim()}")
 
-mahasiswa1.set_nim("654321")
-mahasiswa1.set_nama("Alice Wonderland")
+mahasiswa1.set_nim("122140166")
+mahasiswa1.set_nama("ANI")
 
 print(mahasiswa1.informasi_mahasiswa())
 print(mahasiswa1.status_keaktifan())
