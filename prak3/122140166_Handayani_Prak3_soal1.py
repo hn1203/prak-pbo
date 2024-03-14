@@ -24,6 +24,7 @@ class Dagangan:
                 break
         if hapus_item:
             print(f"{hapus_item[0]} dihapus dari toko!")
+            print()
         else:
             print(f"{self.__nama} tidak ditemukan di toko.")
 
