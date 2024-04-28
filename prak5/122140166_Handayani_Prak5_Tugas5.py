@@ -1,3 +1,7 @@
+'''Handayani
+122140166
+Teknik Informatika'''
+
 import pygame
 import random
 import sys
